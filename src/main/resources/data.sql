@@ -1,3 +1,5 @@
-insert into contato (nome, tipo, telefone) values ('Fulano', 'Residencial', '4002-8922')
-insert into contato (nome, tipo, telefone) values ('Beltrano', 'Comercial', '8922-4002')
-insert into contato (nome, tipo, telefone) values ('Sicrano', 'Comercial', '2424-2424')
+insert into reserva (id, nome, tipo, telefone) values (1, 'Fulano', 'Casamento', '1234-1234')
+insert into reserva (id, nome, tipo, telefone) values (2, 'Beltrano', 'Formatura', '9876-5432')
+insert into reserva (id, nome, tipo, telefone) values (3, 'Sicrano', 'Aniversário', '3334-2234')
+insert into reserva (id, nome, tipo, telefone) values (4, 'Asdrubal', 'Aniversário', '1275-4145')
+insert into reserva (id, nome, tipo, telefone) values (5, 'Diogo Hugo', 'Formatura', '9002-8922')
